@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)]
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="left">Hi 👋, I'm Shameel lamba.</h1>
 <h3 align="left">I'm a self-taught web developer driven by a relentless passion for technology and its power to shape the future. My journey began with fascination, fueled by curiosity, and guided by countless late nights and endless cups of tea. ☕️ This space is my playground, a showcase of my skills and a testament to the joy I find in building things from scratch. From elegant front-end interfaces to robust back-end systems, I thrive on diving deep into the code and bringing ideas to life on the web.</h3>
 <img align="right" width= "400" src= "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
